@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:idute/screens/main/components/home/components/build_card_first_row.dart';
+import 'package:idute/screens/main/components/home/components/build_card_rows.dart';
 import '../../../../../components/constants/route_helper.dart';
 import '../../../../../components/constants/size_config.dart';
 

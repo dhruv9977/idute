@@ -3,7 +3,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:idute/components/constants/size_config.dart';
 import 'package:idute/screens/main/components/home/components/build_app_bar.dart';
-import 'package:idute/screens/main/components/home/components/build_card_first_row.dart';
+import 'package:idute/screens/main/components/home/components/build_card_rows.dart';
 
 import '../../../../../components/widgets/normal_text_widget.dart';
 
