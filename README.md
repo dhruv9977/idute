@@ -6,7 +6,8 @@ A new Flutter project.
 
 The project contains the user interface of two page as shown below: 
 
-![WhatsApp Image 2023-12-09 at 7 54 50 PM](https://github.com/dhruv9977/idute/assets/97451330/f1ea14d3-3219-4f96-b2e4-ef74fab8f0db)
+![WhatsApp Image 2023-12-09 at 7 54 50 PM](https://github.com/dhruv9977/idute/assets/97451330/f1ea14d3-3219-4f96-b2e4-ef74fab8f0db)![WhatsApp Image 2023-12-09 at 7 54 52 PM (1)](https://github.com/dhruv9977/idute/assets/97451330/8daffc3e-a370-468d-add0-e2092e2c4727)
+
 
 https://github.com/dhruv9977/idute/assets/97451330/2d99b7c6-bf0d-4047-b73b-33159319b471
 
